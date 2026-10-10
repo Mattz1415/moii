@@ -1,0 +1,6 @@
+{
+  "name": "SankaVerse",
+  "description": "High-performance Cyberpunk Anime, Donghua, Manga, and Comic Streaming & Reading Platform with Sanka Vollerei API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
